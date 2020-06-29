@@ -23,6 +23,11 @@
   text-decoration: blue;
   
 }
+.sub{
+  text-align: right;
+  font-size: small;
+  color:yellow;
+}
 .bal{
   color: blue;
 }
